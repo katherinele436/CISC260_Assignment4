@@ -1,0 +1,2 @@
+match(Month,Day,Word):-
+	weather(Month,Day,Word,Word,Word).
